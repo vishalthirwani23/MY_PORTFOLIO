@@ -105,7 +105,7 @@ h3 {
 }
 
 #education {
-	background: url() no-repeat center center;
+	background: url(https://images.unsplash.com/photo-1594747663071-0f77d5a5a4ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80) no-repeat center center;
 	background-size: cover;
     min-height: 80vh;
     padding-top: 50px;
